@@ -38,6 +38,7 @@
               hint="Password should be at least 6 characters long."
               lazy-rules
               color="white"
+              type="password"
               :rules="[
                 (val) => (val && val.length >= 6) || 'Invalid password!',
               ]"
