@@ -15,6 +15,7 @@
           color="primary"
           icon="mdi-plus"
           class="q-mt-lg"
+          @click="addProject()"
         />
       </div>
     </div>
