@@ -1,0 +1,17 @@
+{
+    "theEmailIsBeingUsedByAnotherUser": "The e-mail \"%1%\" is being used by another user!",
+    "invalidPassword": "Invalid password!",
+    "invalidUserName": "Invalid name!",
+    "invalidEmail": "Invalid e-mail!",
+    "userWithEmailWasNotFound": "User with e-mail \"%1%\" was not found!",
+    "incorrectPassword": "Incorrect password!",
+    "invalidProjectName": "Invalid project name!",
+    "invalidUser": "Invalid user!",
+    "invalidProject": "Invalid project!",
+    "projectNotFound": "Project \"%1%\" not found!",
+    "accessForbidden": "Access denied!",
+    "invalidTaskDescription": "Invalid task description!",
+    "invalidTask": "Invalid task!",
+    "taskNotFound": "Task \"%1%\" was not found!",
+    "invalidDoneAt": "invalid \"doneAt\" date!"
+}

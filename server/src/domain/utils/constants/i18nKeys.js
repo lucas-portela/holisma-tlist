@@ -1,0 +1,17 @@
+export const i18nKeys = {
+    theEmailIsBeingUsedByAnotherUser: 'theEmailIsBeingUsedByAnotherUser',
+    invalidPassword: 'invalidPassword',
+    invalidUserName: 'invalidUserName',
+    invalidEmail: 'invalidEmail',
+    userWithEmailWasNotFound: 'userWithEmailWasNotFound',
+    incorrectPassword: 'incorrectPassword',
+    invalidProjectName: 'invalidProjectName',
+    invalidUser: 'invalidUser',
+    invalidProject: 'invalidProject',
+    projectNotFound: 'projectNotFound',
+    accessForbidden: 'accessForbidden',
+    invalidTask: 'invalidTask',
+    invalidTaskDescription: 'invalidTaskDescription',
+    taskNotFound: 'taskNotFound',
+    invalidDoneAt: 'invalidDoneAt',
+};
